@@ -1,2 +1,2 @@
-# Dave_Roth
+# TransDegModels
 translation-dependent mRNA degradation models
